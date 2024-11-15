@@ -1,6 +1,5 @@
 export default function Available(){
     return (
-        <>
         <section>
     <div className="container">
       <div className="mx-auto mb-12 max-w-[485px] text-center lg:mb-[70px]">
@@ -196,6 +195,5 @@ export default function Available(){
     </div>
 
   </section>
-        </>
     );
 }
