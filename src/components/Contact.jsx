@@ -12,7 +12,7 @@ export default function Contact() {
                   CONTACT US
                 </span>
                 <h2 className="max-w-[260px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white">
-                  Let's talk about your problem.
+                  Lets talk about your problem.
                 </h2>
               </div>
               <div className="mb-12 flex flex-wrap justify-between lg:mb-0">
