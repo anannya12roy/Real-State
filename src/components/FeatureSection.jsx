@@ -94,7 +94,7 @@ export default function FeatureSection() {
                 <Features data={{
                   title: 'Real Estate Agent',
                   description: 'Our expert real estate agents have been providing exceptional service for over 10 years.',
-                  button: 'Learn More',                   
+                  button: 'Learn More',                  
                   }} />
               </div>
             </div>
