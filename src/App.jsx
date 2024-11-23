@@ -1,6 +1,6 @@
 import AboutSection from "./components/AboutSection";
-import AvailableSection from "./components/Available";
-import ContactUs from "./components/Contact";
+import Available from "./components/Available";
+import Contact from "./components/Contact";
 import CTASection from "./components/CTASection";
 import FAQSection from "./components/FAQSection";
 import FeatureSection from "./components/FeatureSection";
@@ -15,12 +15,12 @@ export default function App() {
       <Navbar />
       <HeroSection />
       <FeatureSection />
-      <AvailableSection />
+      <Available />
       <AboutSection />
       <CTASection />
       <FAQSection />
       <TeamSection />
-      <ContactUs />
+      <Contact />
       <Footer />
     </>
   );
